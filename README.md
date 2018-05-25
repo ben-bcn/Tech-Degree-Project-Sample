@@ -1,1 +1,1 @@
-# Tech-Degree-Project-Sample
+# Tech Degree Project Sample
